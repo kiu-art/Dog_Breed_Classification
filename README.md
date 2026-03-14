@@ -8,4 +8,4 @@ The dataset used is (https://www.kaggle.com/competitions/dog-breed-identificatio
 ![Image](img/image.png)
 
 
-####Thanks for visiting
+# Thanks for visiting
